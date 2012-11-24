@@ -1,6 +1,6 @@
 # sqlserver分页
 
-无限分类以及目录树存储过程,unlimited sort & treeview Procedures
+分页存储过程,适用于SQL Server2000
 
 Version:  0.15.20070415.b
 
